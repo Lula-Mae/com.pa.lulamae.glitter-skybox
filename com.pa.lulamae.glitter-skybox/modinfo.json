@@ -1,0 +1,28 @@
+{
+  "context": "client",
+  "identifier": "com.pa.lulamae.glitter-skybox",
+  "display_name": "Glitter Skybox",
+  "description": "Place your system in a universe of rainbow sparkles",
+  "author": "Lula Mae",
+  "version": "2.0.0",
+  "build": "114779",
+  "date": "2020-07-24",
+  "signature": "not yet implemented",
+  "forum": "https://forums.planetaryannihilation.com/threads/glitter-skybox.73490/",
+  "priority": 100,
+  "icon": "https://raw.githubusercontent.com/Lula-Mae/mod-image-support/master/Glitter-Skybox-Icon.jpg",
+  "category":
+  [
+    "skybox",
+    "ui",
+    "classic",
+    "titans"
+  ],
+  "scenes":
+  {
+      "settings":
+      [
+          "coui://ui/mods/com.pa.lulamae.glitter-skybox/settings.js"
+      ]
+  }
+}
